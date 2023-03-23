@@ -187,67 +187,67 @@ body {
 }
 
 .card:nth-child(1):before {
-    background-image: url(../assets/1.jpg);
+    background-image: url(./assets/1.jpg);
 }
 
 .card:nth-child(2):before {
-    background-image: url(../assets/2.jpg);
+    background-image: url(./assets/2.jpg);
 }
 
 .card:nth-child(3):before {
-    background-image: url(../assets/3.jpg);
+    background-image: url(./assets/3.jpg);
 }
 
 .card:nth-child(4):before {
-    background-image: url(../assets/4.jpg);
+    background-image: url(./assets/4.jpg);
 }
 
 .card:nth-child(5):before {
-    background-image: url(../assets/5.jpg);
+    background-image: url(./assets/5.jpg);
 }
 
 .card:nth-child(6):before {
-    background-image: url(../assets/6.jpg);
+    background-image: url(./assets/6.jpg);
 }
 
 .card:nth-child(7):before {
-    background-image: url(../assets/7.jpg);
+    background-image: url(./assets/7.jpg);
 }
 
 .card:nth-child(8):before {
-    background-image: url(../assets/8.jpg);
+    background-image: url(./assets/8.jpg);
 }
 
 .card:nth-child(9):before {
-    background-image: url(../assets/9.jpg);
+    background-image: url(./assets/9.jpg);
 }
 
 .card:nth-child(10):before {
-    background-image: url(../assets/10.jpg);
+    background-image: url(./assets/10.jpg);
 }
 
 .card:nth-child(11):before {
-    background-image: url(../assets/11.jpg);
+    background-image: url(./assets/11.jpg);
 }
 
 .card:nth-child(12):before {
-    background-image: url(../assets/12.jpg);
+    background-image: url(./assets/12.jpg);
 }
 
 .card:nth-child(13):before {
-    background-image: url(../assets/13.jpg);
+    background-image: url(./assets/13.jpg);
 }
 
 .card:nth-child(14):before {
-    background-image: url(../assets/14.jpg);
+    background-image: url(./assets/14.jpg);
 }
 
 .card:nth-child(15):before {
-    background-image: url(../assets/15.jpg);
+    background-image: url(./assets/15.jpg);
 }
 
 .card:nth-child(16):before {
-    background-image: url(../assets/16.jpg);
+    background-image: url(./assets/16.jpg);
 }
 
 .content {
