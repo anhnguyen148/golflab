@@ -107,6 +107,8 @@ body {
     border: 0rem;
     color: white;
     background-color: rgb(214, 61, 0);
+    padding: 1.2rem;
+    text-decoration: none;
 }
 
 /*********************************/
